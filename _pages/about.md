@@ -19,6 +19,6 @@ Ciao 👋 I'm Alessandro and I'm a PhD candidate at EPFL in the [Physics of Comp
 
 The aim of my research is to enhance our understanding of modern machine learning algorithms.
 <!-- with a focus on the interplay between *data structure*, *architecture*, and *generalization* in deep learning.  -->
-In particular, I'm interested in exploring how the `geometric structure of natural data`, for instance symmetries, invariances, and compositionality, enables efficient learning in high dimensions. I enjoy working both studying analytical (toy) models and performing numerical experiments.
+In particular, I'm interested in exploring how the geometric structure of natural data, for instance symmetries, invariances, and compositionality, enables efficient learning in high dimensions. I enjoy working both studying analytical (toy) models and performing numerical experiments.
 
 Previously, I completed a joint Master's degree in theoretical physics at Sorbonne Université, Politecnico di Torino, SISSA, and ICTP.
