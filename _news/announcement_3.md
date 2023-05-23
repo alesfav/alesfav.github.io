@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-08-02 00:00:00-0000
+date: 2022-11-27 00:00:00-0000
 inline: true
 ---
 
-A new [preprint](https://arxiv.org/abs/2208.01003) is out! We show how the multi-scale structure of deep CNNs reflects into the spectral structure of their NTK allowing them to adapt to the spatial scale of the task!
+Our 2021 NeurIPS papers on locality and stability to diffeomorphisms have been published in JSTAT as part of the [Special Issue on the Statistical Physics Aspects of Machine Learning and AI](https://iopscience.iop.org/collections/1742-5468_extraspecial20).
