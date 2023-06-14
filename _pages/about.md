@@ -7,7 +7,7 @@ profile:
   align:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: EPFL, Rte de la Sorge, Lausanne, CH 1015
+  address: # EPFL, Rte de la Sorge, Lausanne, CH 1015
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
