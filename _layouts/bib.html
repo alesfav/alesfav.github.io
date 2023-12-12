@@ -133,6 +133,9 @@
           {%- if entry.repub -%}
             <div class="periodical">{{entry.repub}}</div>
           {%- endif -%}
+          {%- if entry.highlight -%}
+          <div class="periodical"><span style="color:#0076df">{{entry.highlight}}</span></div>
+        {%- endif -%}
         {%- endif %}
 
           
