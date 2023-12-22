@@ -20,7 +20,7 @@ layout: default
               {% if page.profile.image_circular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
               {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+                {%- assign profile_image_class = "img-fluid z-depth-1 rounded margin-5" -%}
               {% endif %}
 
               {% include figure.html 
@@ -36,8 +36,8 @@ layout: default
           </div>
           {%- endif %}
 
-          <!-- <div class="clearfix"> -->
-          <div class="content-container">
+          <div class="clearfix" style="text-align:justify">
+          <!-- <div class="content-container"> -->
             {{ content }}
           </div>
 
