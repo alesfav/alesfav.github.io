@@ -5,7 +5,7 @@ permalink: /
 subtitle:
 profile:
   align:
-  image: prof_pic_epfl.jpg
+  image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
   address: # EPFL IPHYS, Rte de la Sorge, Lausanne, CH 1015
 
