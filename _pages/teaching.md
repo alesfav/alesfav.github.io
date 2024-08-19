@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### EPFL
 
-Organize your courses by years, topics, or universities, however you like!
+Teaching Assistant (~70 h/semester):
+- PHYS-316 **Statistical Physics II: Phase Transitions and Critical Phenomena** (Spring 2023, Spring 2024).
+- PHYS-467 **Machine Learning for Physicists** (Fall 2021, Fall 2022, Fall 2023).
+- PHYS-421 **Physics Projects I: Statistical Mechanics of Deep Learning** (Fall 2021).
+
+Guest lecturer at CS-625 **Transfer Learning and Meta-Learning** (Spring 2024).
