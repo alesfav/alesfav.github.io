@@ -25,9 +25,9 @@ Hey there! I’m a final-year PhD student at [EPFL](https://www.epfl.ch/en/), wh
 
 My research is centered on understanding the fundamental principles that underpin the success of artificial intelligence. In particular, my current work focuses on:
 
-- Studying how learnability is affected by [geometric properties of training data](#), such as symmetries, hierarchical, and compositional structures that are prevalent in images and language.
+- Studying how *learnability* is affected by [geometric properties of training data](#), such as symmetries, hierarchical, and compositional structures that are prevalent in images and language.
 - Post-training and multi-modal aspects of [large pre-trained models](#), with a focus on understanding and advancing [model editing](#) and [model merging](#) techniques.
 
-These directions are unified by the need to characterize the [internal representations](#) built by neural networks, for instance, by studying the dual relation between the weight and function spaces of these models.
+These directions are unified by the need to characterize the [internal representations of data](#) built by neural networks, for instance, by studying the dual relation between the weight and function spaces of these models.
 
 Prior to my PhD, I completed a joint Master’s degree in [theoretical physics](#) from Sorbonne Université, Politecnico di Torino, SISSA, and ICTP.

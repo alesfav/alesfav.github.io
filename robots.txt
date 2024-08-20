@@ -2,6 +2,8 @@
 permalink: /robots.txt
 ---
 User-agent: *
-Disallow:
+Disallow: /*.pdf$
+Disallow: /assets/pdf/
+Disallow: /assets/img/posters/
 
 Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
