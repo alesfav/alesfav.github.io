@@ -23,10 +23,11 @@ social: false # includes social icons at the bottom of the page
 
 Hey there! I’m a final-year PhD student at [EPFL](https://www.epfl.ch/en/), where I’m advised by [Matthieu Wyart](https://physics-astronomy.jhu.edu/directory/matthieu-wyart/) and [Pascal Frossard](https://www.epfl.ch/labs/lts4/people/people-current/frossard/). During my PhD, I also interned as an applied scientist at Amazon’s [AWS AI Labs](https://aws.amazon.com/), working in [Stefano Soatto](https://www.amazon.science/author/stefano-soatto)’s group.
 
-My research is driven by understanding the fundamental principles that underpin the success of artificial intelligence. Currently, my work focuses on:
-- Studying how learnability is affected by [geometric properties of training data](#), such as symmetries, hierarchical, and compositional structures that are prevalent in images and language.
-- Post-training and multi-modal aspects of [foundation models](#), with a focus on understanding and enhancing [model editing](#) and [model merging](#) techniques.
+My research is centered on understanding the fundamental principles that underpin the success of artificial intelligence. In particular, my current work focuses on:
 
-These directions are both connected by the need to characterize the [internal representations of data](#) built by neural networks.
+- Studying how learnability is affected by [geometric properties of training data](#), such as symmetries, hierarchical, and compositional structures that are prevalent in images and language.
+- Post-training and multi-modal aspects of [large pre-trained models](#), with a focus on understanding and advancing [model editing](#) and [model merging](#) techniques.
+
+These directions are unified by the need to characterize the [internal representations](#) built by neural networks, for instance, by studying the dual relation between the weight and function spaces of these models.
 
 Prior to my PhD, I completed a joint Master’s degree in [theoretical physics](#) from Sorbonne Université, Politecnico di Torino, SISSA, and ICTP.

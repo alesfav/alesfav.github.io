@@ -9,7 +9,8 @@ nav_order: 3
 
 ### EPFL
 
-Teaching Assistant (~70 h/semester):
+Teaching assistant (~70 h/semester):
+
 - PHYS-316 **Statistical Physics II: Phase Transitions and Critical Phenomena** (Spring 2023, Spring 2024).
 - PHYS-467 **Machine Learning for Physicists** (Fall 2021, Fall 2022, Fall 2023).
 - PHYS-421 **Physics Projects I: Statistical Mechanics of Deep Learning** (Fall 2021).
