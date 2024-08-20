@@ -1,4 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /*.pdf$
+Disallow: /assets/pdf/
+Disallow: /assets/img/posters/
 
 Sitemap: https://alesfav.github.io/sitemap.xml
