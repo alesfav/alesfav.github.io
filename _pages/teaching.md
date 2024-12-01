@@ -7,12 +7,24 @@ nav: true
 nav_order: 4
 ---
 
-### EPFL
+I enjoy teaching and mentoring. In 2024, I was awarded the *Dean's Award for Teaching Excellence* at EPFL.
 
-Teaching assistant (~70 h/semester):
+#### Statistical Physics II
 
-- PHYS-316 **Statistical Physics II: Phase Transitions and Critical Phenomena** (Spring 2023, Spring 2024).
-- PHYS-467 **Machine Learning for Physicists** (Fall 2021, Fall 2022, Fall 2023).
-- PHYS-421 **Physics Projects I: Statistical Mechanics of Deep Learning** (Fall 2021).
+##### 2023, 2024
 
-Guest lecturer at CS-625 **Transfer Learning and Meta-Learning** (Spring 2024).
+Advanced course on statistical physics focusing on phase transitions, critical phenomena, and the renormalization group, for third-year Physics students.
+
+#### Machine Learning for Physicists
+
+##### 2021, 2022, 2023
+
+An introduction to machine learning with scientific applications for MSc students in Physics and Chemistry.
+
+#### Physics Projects I: Statistical Mechanics of Deep Learning
+
+##### 2021
+
+Theoretical and computational research projects on neural networks for first-year MSc students specializing in Physics and Applied Physics.
+
+In Spring 2024, I was also a guest lecturer for CS-625 *Transfer Learning and Meta-Learning*.
