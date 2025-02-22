@@ -80,7 +80,8 @@ jobs:
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
       - name: Install and Build 🔧
-        run: |
+        run: |          
+          sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
