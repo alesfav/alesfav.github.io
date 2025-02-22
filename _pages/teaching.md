@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-I enjoy teaching and mentoring. In 2024, I was awarded the *Dean's Award for Teaching Excellence* at EPFL.
+I enjoy teaching and mentoring students. In 2024, I was awarded the *Dean's Award for Teaching Excellence* at EPFL.
 
 #### Statistical Physics II
 

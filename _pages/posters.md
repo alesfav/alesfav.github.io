@@ -31,4 +31,9 @@ nav_order: 3
             {% include figure.liquid loading="eager" path="/assets/img/posters/diffusion_poster.png" title="diffusion_poster" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <a href="/assets/img/posters/probing_poster.png">
+            {% include figure.liquid loading="eager" path="/assets/img/posters/probing_poster.png" title="diffusion_poster" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
 </div>
