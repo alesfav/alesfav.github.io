@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**[Talk](https://pirsa.org/25040088)** on compositionality in diffusion models at the *Theory+AI* event, Perimeter Institute.
+I gave a [talk](https://pirsa.org/25040088) at the Perimeter Institute for Theoretical Physics on my research into **creativity** and **compositionality** in diffusion models.

@@ -33,7 +33,21 @@ nav_order: 3
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         <a href="/assets/img/posters/probing_poster.png">
-            {% include figure.liquid loading="eager" path="/assets/img/posters/probing_poster.png" title="diffusion_poster" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="/assets/img/posters/probing_poster.png" title="probing_poster" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <a href="/assets/img/posters/creativity_poster.png">
+            {% include figure.liquid loading="eager" path="/assets/img/posters/creativity_poster.png" title="creativity_poster" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <a href="/assets/img/posters/memorization_poster.png">
+            {% include figure.liquid loading="eager" path="/assets/img/posters/memorization_poster.png" title="memorization_poster" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+
