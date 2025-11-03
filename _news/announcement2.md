@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My PhD thesis has been awarded the **G-Research EPFL PhD prize in maths and data science**. Many thanks to G-Research for this honor.
+My PhD thesis has been awarded the G-Research EPFL **PhD prize** in maths and data science. Many thanks to G-Research for this honor.
