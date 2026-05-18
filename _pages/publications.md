@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-\* denotes co-first authorship. Check also my [Google Scholar](https://scholar.google.com/citations?hl=en&user=E0sOorcAAAAJ) profile.
+\* denotes co-first authorship. Check also my **[Google Scholar](https://scholar.google.com/citations?hl=en&user=E0sOorcAAAAJ)** profile.
 
 <div class="publications">
 
